@@ -1,4 +1,7 @@
 # Git Commit Plugin For VS Code
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 > Automatically generate git commit messages
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/redjue.git-commit-plugin)
@@ -150,3 +153,43 @@ The plugin will automatically switch the language description based on the `vsco
 ## License
 
 Released under [MIT](/LICENSE) by [@RedJue](https://github.com/RedJue).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.imalun.com"><img src="https://avatars.githubusercontent.com/u/31614024?v=4?s=100" width="100px;" alt="白云苍狗"/><br /><sub><b>白云苍狗</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=MaLuns" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Tiddler-7"><img src="https://avatars.githubusercontent.com/u/73354813?v=4?s=100" width="100px;" alt="冷空气"/><br /><sub><b>冷空气</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=Tiddler-7" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://my.hancel.org"><img src="https://avatars.githubusercontent.com/u/1502581?v=4?s=100" width="100px;" alt="Hancel Lin"/><br /><sub><b>Hancel Lin</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=imlinhanchao" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Torlinone"><img src="https://avatars.githubusercontent.com/u/26668466?v=4?s=100" width="100px;" alt="Keriy"/><br /><sub><b>Keriy</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=Torlinone" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.linkedin.com/in/arthurmeyniel"><img src="https://avatars.githubusercontent.com/u/61516506?v=4?s=100" width="100px;" alt="Arthur Meyniel"/><br /><sub><b>Arthur Meyniel</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=ArthurMynl" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/haryoiro"><img src="https://avatars.githubusercontent.com/u/55312590?v=4?s=100" width="100px;" alt="haryoiro"/><br /><sub><b>haryoiro</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=haryoiro" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DrBlackBird"><img src="https://avatars.githubusercontent.com/u/10115809?v=4?s=100" width="100px;" alt="Tom"/><br /><sub><b>Tom</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=DrBlackBird" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.webwuyou.com"><img src="https://avatars.githubusercontent.com/u/15182683?v=4?s=100" width="100px;" alt="风过无痕"/><br /><sub><b>风过无痕</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=webwuyou" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/whwnow"><img src="https://avatars.githubusercontent.com/u/1713701?v=4?s=100" width="100px;" alt="whwnow"/><br /><sub><b>whwnow</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=whwnow" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MichaelCurrin"><img src="https://avatars.githubusercontent.com/u/18750745?v=4?s=100" width="100px;" alt="Michael Currin"/><br /><sub><b>Michael Currin</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=MichaelCurrin" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.odinsam.com/"><img src="https://avatars.githubusercontent.com/u/68220289?v=4?s=100" width="100px;" alt="odinsam"/><br /><sub><b>odinsam</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=odinsam" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tys1128"><img src="https://avatars.githubusercontent.com/u/24326849?v=4?s=100" width="100px;" alt="tys1128"/><br /><sub><b>tys1128</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=tys1128" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://mlzzen.vercel.app"><img src="https://avatars.githubusercontent.com/u/11664505?v=4?s=100" width="100px;" alt="mlzzen"/><br /><sub><b>mlzzen</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=mlzzen" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yeze322"><img src="https://avatars.githubusercontent.com/u/8528761?v=4?s=100" width="100px;" alt="zeye"/><br /><sub><b>zeye</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=yeze322" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://blog.moeyua.com"><img src="https://avatars.githubusercontent.com/u/45156493?v=4?s=100" width="100px;" alt="Moeyua"/><br /><sub><b>Moeyua</b></sub></a><br /><a href="https://github.com/RedJue/git-commit-plugin/commits?author=moeyua" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
